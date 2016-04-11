@@ -49,3 +49,7 @@ body {
   top: 180px;
   left: 640px;
 }
+.text {
+  float: right;
+  margin: 200px 100px;
+}
